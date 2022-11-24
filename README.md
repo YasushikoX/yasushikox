@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasushiko</h1>
 <h3 align="center">Nice to see you here!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasushikox&label=Profile%20views&color=0e75b6&style=flat" alt="yasushikox" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yasushikox" alt="yasushikox" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/_yasushiko_" target="blank"><img src="https://img.shields.io/twitter/follow/_yasushiko_?logo=twitter&style=for-the-badge" alt="_yasushiko_" /></a> </p>
-
 - 🔭 I’m currently working on [Ikigai](https://github.com/YasushikoX/Ikigai)
 
 - 🌱 I’m currently learning **Discord.py**
@@ -28,4 +22,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasushikox&show_icons=true&locale=en" alt="yasushikox" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasushikox&" alt="yasushikox" /></p>
