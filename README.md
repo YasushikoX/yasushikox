@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **yasushiko.xd@gmail.com**
 
-- 💸 Send USDT(ethirium net.): **0xB5a9cCEb56AeBc31aD254AF22C454B72aAF14E5F**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/yasushiko" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="ZXTCGuN7" height="30" width="30" /></a>
