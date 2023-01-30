@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasushiko</h1>
 <h3 align="center">Nice to see you here!</h3>
 
-- 🔭 I’m currently working on [Ikigai](https://github.com/YasushikoX/Ikigai)
+- 🔭 I’m currently working on [Ikigai]#(https://github.com/YasushikoX/Ikigai)
 
 - 🌱 I’m currently learning **Discord.py**
 
