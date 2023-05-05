@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [BollyBot](https://github.com/YasushikoX/BollyBot) 
 
-- 🌱 I’m currently learning **Discord.py**
+- 🌱 I’m currently learning **Fusion 360**
 
 - 📫 How to reach me **yasushiko.xd@gmail.com**
 
