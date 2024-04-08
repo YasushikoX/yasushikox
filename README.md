@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FRC 2024](https://github.com/Roobotics-FRC/RooBot2024) 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **AP CSA**
 
 - 📫 How to reach me **yasushiko.xd@gmail.com**
 
