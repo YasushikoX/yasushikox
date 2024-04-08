@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasushiko</h1>
 <h3 align="center">Nice to see you here!</h3>
 
-- 🔭 I’m currently working on [BollyBot](https://github.com/YasushikoX/BollyBot) 
+- 🔭 I’m currently working on [FRC 2024](https://github.com/Roobotics-FRC/RooBot2024) 
 
 - 🌱 I’m currently learning **Java**
 
