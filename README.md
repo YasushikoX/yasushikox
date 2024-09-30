@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yasushiko</h1>
 <h3 align="center">Nice to see you here!</h3>
 
-- 🔭 I’m currently working on [FRC 2024](https://github.com/Roobotics-FRC/RooBot2024) 
-
-- 🌱 I’m currently learning **AP CSA**
-
 - 📫 How to reach me **yasushiko.xd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
