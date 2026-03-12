@@ -44,9 +44,3 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasushiko&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
