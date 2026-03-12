@@ -1,15 +1,52 @@
-<h1 align="center">Hi 👋, I'm Yasushiko</h1>
-<h3 align="center">Nice to see you here!</h3>
+<h1 align="center">Hey, I'm Yasushiko</h1>
+<p align="center">ME & CS student · Building things that move, think, and solve problems</p>
 
-- 📫 How to reach me **yasushiko.xd@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://t.me/yasushiko" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" alt="ZXTCGuN7" height="30" width="30" /></a>
-<a href="https://discord.gg/HBy6jAHG3A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ZXTCGuN7" height="35" width="45" /></a>
-<a href="https://twitter.com/_yasushiko_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_yasushiko_" height="30" width="40" /></a>
-<a href="https://instagram.com/_yasushiko_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_yasushiko_" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://t.me/yasushiko">Telegram</a> ·
+  <a href="https://discord.gg/HBy6jAHG3A">Discord</a> ·
+  <a href="https://twitter.com/_yasushiko_">Twitter</a> ·
+  <a href="https://instagram.com/_yasushiko_">Instagram</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> </a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="40" height="40"/> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+---
+
+### About Me
+
+- Mechanical Engineering & Computer Science @ Northeastern University
+- Into robotics, automation, fabrication, and building tools that do useful things
+- Currently working in a university metal & wood shop, running TIG/MIG welding trainings
+- I like working across the full stack, from hardware to software
+
+### Projects
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| **[Villa Bugaz](https://www.villabugaz.com)** | Full-stack rental site for a villa business with a custom admin CMS | React, Next.js, Firebase, Resend, Cloudinary |
+| **[Split The Bill](https://split-the-bill.com)** | Real-time bill splitting with live sync and QR code sharing | React, Firebase |
+| **[Linky](https://github.com/YasushikoX/Linky)** | CLI tool that automates LinkedIn engagement and job applications | Rust, ChromiumOxide, Google Gemini API |
+| **[Super Mailer](https://www.super-mailer.app/)** | AI-powered bulk email platform with personalized generation | React, Node.js, Supabase, Google Gemini API |
+| **[Ikigai](https://github.com/YasushikoX/Ikigai)** | Discord bot for gaming matchmaking · 500+ users | Python, Discord API |
+| **[Ball Buddy](https://github.com/YasushikoX/BollyBot)** | Autonomous tennis ball collection robot with computer vision | Python, 3D Printing, CAD |
+
+### Languages & Tools
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="supabase" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="35" height="35"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yasushiko&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
