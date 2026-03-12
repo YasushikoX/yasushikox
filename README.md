@@ -44,3 +44,19 @@
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="35" height="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="35" height="35"/>
 </p>
+
+---
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-green-animate.svg" width="100%"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YasushikoX/YasushikoX/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YasushikoX/YasushikoX/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/YasushikoX/YasushikoX/output/github-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
